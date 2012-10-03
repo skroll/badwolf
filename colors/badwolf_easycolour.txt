@@ -1,0 +1,29 @@
+# Saving this file will update the current colour scheme.
+Basis:badwolf
+Colours:
+	Plain: #f8f6f2
+	Snow: #ffffff
+	Coal: #000000
+	BrightGravel: #d9cec3
+	LightGravel: #998f84
+	Gravel: #857f78
+	MediumGravel: #666462
+	DeepGravel: #45413b
+	DarkGravel: #242321
+	BlackGravel: #1c1b1a
+	BlackestGravel: #141413
+	DalesPale: #fade3e
+	DirtyBlonde: #f4cf86
+	Taffy: #ff2c4b
+	SaltwaterTaffy: #8cffba
+	Tardis: #0a9dff
+	Orange: #ffa724
+	Lime: #aeee00
+	Dress: #ff9eb8
+	Toffee: #b88853
+	Coffee: #c7915b
+	DarkRoast: #88633f
+Dark:
+	Class:DirtyBlonde,Style=bold
+	Member:Toffee
+
