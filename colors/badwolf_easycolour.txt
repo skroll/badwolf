@@ -27,3 +27,4 @@ Dark:
 	Class:DirtyBlonde,Style=bold
 	Member:Toffee
 
+# vim: ff=unix:ft=EasyColour
